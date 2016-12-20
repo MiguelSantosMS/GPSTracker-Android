@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GPS Tracker</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="intro_message">GPS Position Tracker</string>
+    <string name="pause">Pause Location Updates</string>
+    <string name="resume">Resume Location Updates</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="address">Address</string>
+    <string name="use_address">Use Address</string>
+    <string name="use_location">Use Latitude/Longitude</string>
+    <string name="get_address">Get Address</string>
+    <string name="fetch">Fetch</string>
+    <string name="str_rb_normal">Normal</string>
+    <string name="str_rb_satellite">Satellite</string>
+    <string name="str_rb_terrain">Terrain</string>
+</resources>
